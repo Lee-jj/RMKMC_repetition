@@ -1,8 +1,8 @@
 clear all;
 clc;
 
-addpath([pwd, '/funs']);
-addpath([pwd, '/datasets']);
+% addpath([pwd, '/funs']);
+% addpath([pwd, '/datasets']);
 
 %% load Dataset
 datasetName = 'MSRC';
